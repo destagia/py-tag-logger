@@ -1,8 +1,14 @@
-# Tag Logger
+# Python Tag Logger
 
-## Filtering Your Tag!
+## Filtering your stdout with tag!
 
 Using `tlogger.log` function but not `print` function, it must give us happy hacking life, I'm not sure tho :D
+
+## Instration
+
+```
+pip install git+https://github.com/miyatin/py-tag-logger.git
+```
 
 ## Usage
 
