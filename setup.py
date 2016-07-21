@@ -8,7 +8,7 @@ except IOError:
 
 setup(
     name="tag-logger",
-    version="0.1.0",
+    version="0.1.1",
     description="Logger with tag",
     license="MIT",
     author="Shohei Miyashita",

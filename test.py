@@ -2,6 +2,16 @@ import tlogger as tl
 import sys
 import unittest
 
+tl.log("hoge", "skdjflksdjf")
+tl.log("hoge", "skdjflksdjf")
+tl.log("hoge", "skdjflksdjf")
+tl.log("hoge", "skdjflksdjf")
+
+tl.log("foo", "skdjflksdjf")
+tl.log("foo", "skdjflksdjf")
+tl.log("piyo", "skdjflksdjf")
+
+
 class StubOut():
     def __init__(self):
         self.__stdout = []
